@@ -84,9 +84,7 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-4 col-lg-3" id="hookDashboardZoneOne">
-			{$hookDashboardZoneOne}
-		</div>
+		
 		<div class="col-md-8 col-lg-7" id="hookDashboardZoneTwo">
 			{$hookDashboardZoneTwo}
 			<div id="dashaddons" class="row-margin-bottom">
